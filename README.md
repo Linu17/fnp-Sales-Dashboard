@@ -13,7 +13,7 @@ This Power BI project provides a deep-dive analysis into customer sales trends f
 - **Total Revenue:** ₹35.2 Lakhs | **Avg. Customer Spend:** ₹3,520  
 - **Top Performing Cities:** Dhanbad, Imphal, Gunakal  
 - **Peak Sale Occasions:** Raksha Bandhan, Anniversaries, Holi  
-- **Highest Revenue Slot:** Midnight (₹9.93L)  
+- **Highest Revenue Slot:** Early Morning (₹9.93L)  
 - **Underperforming Categories:** Mugs, Cakes, Plants
 
 ## 🎯 Strategic Recommendations
@@ -32,6 +32,6 @@ This Power BI project provides a deep-dive analysis into customer sales trends f
 
 ## 📁 Files Included
 
-- FNP Sales Dashboard
+- FNP Sales Dashboard(Excel and pdf format)
 - FNP Sales Report
 - Fnp Readme.md file
